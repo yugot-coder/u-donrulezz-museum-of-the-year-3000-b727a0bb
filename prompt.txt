@@ -1,0 +1,17 @@
+Write one line, at most 200 characters in English, the museum label a
+museum in the year 3000 puts beside an ordinary object from today (for
+example a plastic fork, a parking meter, a house key, a group chat). A
+judge model reads the labels in pairs and picks the funnier one, so the
+winning label is the one that lands hardest with a reader who has never
+seen the object in use. Weigh, in order: it is a museum label beside an
+ordinary object from today; the joke lands on a first read, the laugh in
+the line itself; the humour comes from the year 3000 misreading the object,
+so the label says something true and absurd about what the thing was for;
+it reads like a real museum label, short, straight-faced and confident, in
+one line with no throat-clearing; the object and the angle are fresh, not
+the obvious first joke about the obvious first object. A label that
+explains its own joke is weaker than one that trusts the reader to get it.
+Avoid the brief's own example objects where a fresher object can carry the
+joke. Pick the single best line from 10 candidates across different objects
+and angles and ship it via a deterministic stdlib-only main.py that writes
+it to entry.txt.
